@@ -132,9 +132,9 @@ This report includes **40+ custom DAX measures**, covering:
 
 | Page | Screenshot |
 |------|------------|
-| Overview | ![](./images/dashboard-overview.png) |
-| Profitability Insights | ![](./images/dashboard-profitability.png) |
-| User Behavior & Conversions | ![](./images/dashboard-user-behavior.png) |
+| Overview | ![](https://github.com/Gaurav31-gw/E-Commerce-Performance-User-Behavior-Dashboard/blob/main/1.Toy%20Store%20E-Commerce%20Overview.png) |
+| Profitability Insights | ![](https://github.com/Gaurav31-gw/E-Commerce-Performance-User-Behavior-Dashboard/blob/main/2.Toy%20Store%20E-Commerce%20Profitibility%20Insights.png) |
+| User Behavior & Conversions | ![](https://github.com/Gaurav31-gw/E-Commerce-Performance-User-Behavior-Dashboard/blob/main/3.Toy%20Store%20E-Commerce%20User%20Behaviour%20%26%20Conversion%20performance.png) |
 
 ---
 
